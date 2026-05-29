@@ -442,8 +442,8 @@
       ]
     },
     "Open up my feelings!ガチャ": {
-      "text": "Open up my feelings! 招募",
-      "source": "human",
+      "text": "Open up my feelings!招募",
+      "source": "cn",
       "ids": [
         "771"
       ]
@@ -547,8 +547,8 @@
       ]
     },
     "Seeking my wayガチャ": {
-      "text": "Seeking my way 招募",
-      "source": "human",
+      "text": "Seeking my way招募",
+      "source": "cn",
       "ids": [
         "766"
       ]
@@ -1051,8 +1051,8 @@
       ]
     },
     "[25時、ナイトコードで。]ワールドリンクイベントサポートガチャ": {
-      "text": "[25点，Nightcord见。]世界连结活动支援招募",
-      "source": "human",
+      "text": "[25点，Nightcord见。]连接世界活动支援招募",
+      "source": "cn",
       "ids": [
         "747"
       ]
@@ -1520,8 +1520,8 @@
       ]
     },
     "[Leo/need]ワールドリンクイベントサポートガチャ": {
-      "text": "[Leo/need] World Link 活动支援招募",
-      "source": "human",
+      "text": "[Leo/need] 连接世界活动支援招募",
+      "source": "cn",
       "ids": [
         "752"
       ]
@@ -2688,7 +2688,7 @@
       ]
     },
     "[復刻][神代類]HAPPY BIRTHDAY2023ガチャ": {
-      "text": "[回响][神代类]HAPPY BIRTHDAY Stamp招募",
+      "text": "[复刻][神代类]HAPPY BIRTHDAY Stamp招募",
       "source": "cn",
       "ids": [
         "531",
@@ -2696,14 +2696,14 @@
       ]
     },
     "[復刻][神代類]HAPPY BIRTHDAY2024ガチャ": {
-      "text": "[回响][神代类]HAPPY BIRTHDAY 2025招募",
+      "text": "[复刻][神代类]HAPPY BIRTHDAY 2025招募",
       "source": "cn",
       "ids": [
         "754"
       ]
     },
     "[復刻][神代類]HAPPY BIRTHDAYガチャ": {
-      "text": "[回响][神代类]HAPPY BIRTHDAY招募",
+      "text": "[复刻][神代类]HAPPY BIRTHDAY Flower招募",
       "source": "cn",
       "ids": [
         "344",
@@ -2744,14 +2744,14 @@
       ]
     },
     "[復刻][草薙寧々]HAPPY BIRTHDAY2024ガチャ": {
-      "text": "[复刻] [草薙宁宁] HAPPY BIRTHDAY 2024 招募",
-      "source": "human",
+      "text": "[回响][草薙宁宁]HAPPY BIRTHDAY 2025招募",
+      "source": "cn",
       "ids": [
         "768"
       ]
     },
     "[復刻][草薙寧々]HAPPY BIRTHDAYガチャ": {
-      "text": "[回响][草薙宁宁]HAPPY BIRTHDAY Flower招募",
+      "text": "[回响][草薙宁宁]HAPPY BIRTHDAY招募",
       "source": "cn",
       "ids": [
         "351",
@@ -3626,8 +3626,8 @@
       ]
     },
     "[草薙寧々]HAPPY BIRTHDAY2025ガチャ": {
-      "text": "[草薙宁宁] HAPPY BIRTHDAY 2025 招募",
-      "source": "human",
+      "text": "[草薙宁宁]HAPPY BIRTHDAY 2026招募",
+      "source": "cn",
       "ids": [
         "767"
       ]
