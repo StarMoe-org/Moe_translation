@@ -2,12 +2,12 @@
   "meta": {
     "source": "llm",
     "version": "1.0",
-    "last_updated": 1772167836
+    "last_updated": 1780229590
   },
   "episodes": {
     "1": {
       "scenarioId": "event_195_01",
-      "title": "总有一天，也要像那样",
+      "title": "总有一天，我也要像那样",
       "talkData": {
         "……Ioliteのライブ、最高だったな": "……Iolite的演唱会，真是太棒了",
         "志歩": "志步",
@@ -544,7 +544,7 @@
     },
     "7": {
       "scenarioId": "event_195_07",
-      "title": "至今为止的道路",
+      "title": "至今走过的道路",
       "talkData": {
         "（……しほちゃん、すっごく集中してるな）": "（……志步酱，真的非常集中呢）",
         "咲希": "咲希",

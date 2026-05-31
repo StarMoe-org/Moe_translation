@@ -2,7 +2,7 @@
   "meta": {
     "source": "llm",
     "version": "1.0",
-    "last_updated": 1772099027
+    "last_updated": 1780229459
   },
   "episodes": {
     "1": {
@@ -138,7 +138,7 @@
     },
     "2": {
       "scenarioId": "event_184_02",
-      "title": "失败作",
+      "title": "失败之作",
       "talkData": {
         "どうしよう……": "怎么办才好……",
         "絵名": "绘名",

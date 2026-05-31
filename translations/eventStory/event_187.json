@@ -2,12 +2,12 @@
   "meta": {
     "source": "llm",
     "version": "1.0",
-    "last_updated": 1772100775
+    "last_updated": 1780229494
   },
   "episodes": {
     "1": {
       "scenarioId": "event_187_01",
-      "title": "现实的墙壁",
+      "title": "现实之墙",
       "talkData": {
         "（学生で短期ってなると……\nイベントスタッフとか飲食系が多いな）": "（要是学生能做的短期工……\n大多是活动工作人员或者餐饮类的啊）",
         "彰人": "彰人",

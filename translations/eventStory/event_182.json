@@ -2,7 +2,7 @@
   "meta": {
     "source": "llm",
     "version": "1.0",
-    "last_updated": 1772097083
+    "last_updated": 1780229437
   },
   "episodes": {
     "1": {
@@ -207,7 +207,7 @@
     },
     "4": {
       "scenarioId": "event_182_04",
-      "title": "寄托在声音中的情感",
+      "title": "寄托于声音的情感",
       "talkData": {
         "え……もう曲ができたの！？": "诶……曲子已经写好了吗！？",
         "MEIKO": "MEIKO",
@@ -417,7 +417,7 @@
     },
     "6": {
       "scenarioId": "event_182_06",
-      "title": "传达，相连",
+      "title": "传递，相连",
       "talkData": {
         "——うん。いい感じ": "——嗯。感觉不错",
         "一歌": "一歌",
