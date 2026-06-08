@@ -455,6 +455,13 @@
         "725"
       ]
     },
+    "Past Fragmentsガチャ": {
+      "text": "昔日的碎片招募",
+      "source": "human",
+      "ids": [
+        "959"
+      ]
+    },
     "Phantom Chaserガチャ": {
       "text": "Phantom Chaser招募",
       "source": "cn",
@@ -624,8 +631,8 @@
       ]
     },
     "Those who dareガチャ": {
-      "text": "Those who dare 招募",
-      "source": "human",
+      "text": "Those who dare招募",
+      "source": "cn",
       "ids": [
         "778"
       ]
@@ -2672,14 +2679,14 @@
       ]
     },
     "[復刻][白石杏]HAPPY BIRTHDAY2024ガチャ": {
-      "text": "[复刻] [白石杏] HAPPY BIRTHDAY 2024 招募",
-      "source": "human",
+      "text": "[回响][白石杏]HAPPY BIRTHDAY 2025招募",
+      "source": "cn",
       "ids": [
         "773"
       ]
     },
     "[復刻][白石杏]HAPPY BIRTHDAYガチャ": {
-      "text": "[回响][白石杏]HAPPY BIRTHDAY Flower招募",
+      "text": "[回响][白石杏]HAPPY BIRTHDAY招募",
       "source": "cn",
       "ids": [
         "354",
@@ -2966,6 +2973,13 @@
         "936"
       ]
     },
+    "[復刻]光芒差す黎明ガチャ": {
+      "text": "[复刻]光芒洒落的黎明招募",
+      "source": "human",
+      "ids": [
+        "960"
+      ]
+    },
     "[復刻]共に歩むクルーガチャ": {
       "text": "[回响]共经风雨的战友招募",
       "source": "cn",
@@ -3096,7 +3110,8 @@
       "text": "[复刻] 音乐鸣响的街角招募",
       "source": "human",
       "ids": [
-        "859"
+        "859",
+        "961"
       ]
     },
     "[復刻]願う新春の乙女ガチャ": {
@@ -3528,8 +3543,8 @@
       ]
     },
     "[白石杏]HAPPY BIRTHDAY2025ガチャ": {
-      "text": "[白石杏] HAPPY BIRTHDAY 2025 招募",
-      "source": "human",
+      "text": "[白石杏]HAPPY BIRTHDAY 2026招募",
+      "source": "cn",
       "ids": [
         "772"
       ]

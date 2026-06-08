@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "source": "jp_pending",
+    "version": "1.0",
+    "last_updated": 1780885980
+  },
+  "episodes": {
+    "1": {
+      "scenarioId": "wl_3rd_group3_01",
+      "title": "思いがけない出会い",
+      "talkData": {}
+    },
+    "2": {
+      "scenarioId": "wl_3rd_group3_02",
+      "title": "傷だらけの想いを",
+      "talkData": {}
+    },
+    "3": {
+      "scenarioId": "wl_3rd_group3_03",
+      "title": "カメラの向こうで",
+      "talkData": {}
+    },
+    "4": {
+      "scenarioId": "wl_3rd_group3_04",
+      "title": "重なる痛み",
+      "talkData": {}
+    },
+    "5": {
+      "scenarioId": "wl_3rd_group3_05",
+      "title": "大事なもの",
+      "talkData": {}
+    },
+    "6": {
+      "scenarioId": "wl_3rd_group3_06",
+      "title": "小さな変化",
+      "talkData": {}
+    },
+    "7": {
+      "scenarioId": "wl_3rd_group3_07",
+      "title": "光の中で",
+      "talkData": {}
+    }
+  }
+}
