@@ -190,8 +190,8 @@
       ]
     },
     "Empty Teatimeガチャ": {
-      "text": "Empty Teatime 招募",
-      "source": "human",
+      "text": "Empty Teatime招募",
+      "source": "cn",
       "ids": [
         "782"
       ]
@@ -2487,14 +2487,14 @@
       ]
     },
     "[復刻][星乃一歌]HAPPY BIRTHDAY2024ガチャ": {
-      "text": "[复刻] [星乃一歌] HAPPY BIRTHDAY 2024 招募",
-      "source": "human",
+      "text": "[回响][星乃一歌]HAPPY BIRTHDAY 2025招募",
+      "source": "cn",
       "ids": [
         "784"
       ]
     },
     "[復刻][星乃一歌]HAPPY BIRTHDAYガチャ": {
-      "text": "[回响][星乃一歌]HAPPY BIRTHDAY Flower招募",
+      "text": "[回响][星乃一歌]HAPPY BIRTHDAY招募",
       "source": "cn",
       "ids": [
         "360",
@@ -3221,8 +3221,8 @@
       ]
     },
     "[星乃一歌]HAPPY BIRTHDAY2025ガチャ": {
-      "text": "[星乃一歌] HAPPY BIRTHDAY 2025 招募",
-      "source": "human",
+      "text": "[星乃一歌]HAPPY BIRTHDAY 2026招募",
+      "source": "cn",
       "ids": [
         "783"
       ]
