@@ -84,6 +84,13 @@
         "210"
       ]
     },
+    "Act in the chaosガチャ": {
+      "text": "起舞于混沌之中招募",
+      "source": "human",
+      "ids": [
+        "964"
+      ]
+    },
     "Another sparkle Starsガチャ": {
       "text": "Another sparkle Stars招募",
       "source": "cn",
@@ -1454,6 +1461,13 @@
       "source": "human",
       "ids": [
         "845"
+      ]
+    },
+    "[DEEMO×Cytusシリーズ]タイアップ記念プレミアムプレゼントガチャ": {
+      "text": "[DEEMO×Cytus系列]联动纪念高级礼物招募",
+      "source": "cn",
+      "ids": [
+        "965"
       ]
     },
     "[Dreamscape 開催記念]プレミアムプレゼントガチャ 25時、ナイトコードで。 EDITION": {
@@ -3577,11 +3591,25 @@
         "753"
       ]
     },
+    "[神代類]HAPPY BIRTHDAY2026ガチャ": {
+      "text": "[神代类]HAPPY BIRTHDAY 2026招募",
+      "source": "human",
+      "ids": [
+        "962"
+      ]
+    },
     "[神代類]HAPPY BIRTHDAYガチャ": {
       "text": "[神代類]HAPPY BIRTHDAY招募",
       "source": "cn",
       "ids": [
         "217"
+      ]
+    },
+    "[神代類]HAPPY BIRTHDAYメモリーズガチャ": {
+      "text": "[神代类]HAPPY BIRTHDAY 纪念招募",
+      "source": "human",
+      "ids": [
+        "963"
       ]
     },
     "[花里みのり]HAPPY BIRTHDAY2023ガチャ": {

@@ -119,6 +119,13 @@
         "1298"
       ]
     },
+    "Miraiの像": {
+      "text": "Mirai玩偶",
+      "source": "cn",
+      "ids": [
+        "1469"
+      ]
+    },
     "[5周年記念]メモリアルクリアプレート": {
       "text": "[1.5周年纪念]纪念透明盘",
       "source": "cn",
@@ -10045,6 +10052,13 @@
       "source": "unknown",
       "ids": [
         "1298"
+      ]
+    },
+    "Miraiの像": {
+      "text": "Mirai玩偶",
+      "source": "cn",
+      "ids": [
+        "1469"
       ]
     },
     "[5周年記念]メモリアルクリアプレート": {
@@ -20131,6 +20145,13 @@
         "10311"
       ]
     },
+    "DEEMO×Cytusシリーズタイアップ": {
+      "text": "[DEEMO×Cytus系列]联动纪念",
+      "source": "cn",
+      "ids": [
+        "103"
+      ]
+    },
     "KAITO": {
       "text": "KAITO",
       "source": "human",
@@ -20255,6 +20276,13 @@
       "source": "human",
       "ids": [
         "10"
+      ]
+    },
+    "Miraiの像": {
+      "text": "Mirai玩偶",
+      "source": "cn",
+      "ids": [
+        "11462"
       ]
     },
     "Vivid BAD SQUAD": {

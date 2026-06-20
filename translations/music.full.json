@@ -456,6 +456,13 @@
         "679"
       ]
     },
+    "KIVΛ": {
+      "text": "",
+      "source": "unknown",
+      "ids": [
+        "744"
+      ]
+    },
     "KOUICHI": {
       "text": "",
       "source": "unknown",
@@ -507,6 +514,13 @@
       "source": "unknown",
       "ids": [
         "630"
+      ]
+    },
+    "M2U": {
+      "text": "",
+      "source": "unknown",
+      "ids": [
+        "746"
       ]
     },
     "MARETU": {
@@ -676,6 +690,13 @@
         "431"
       ]
     },
+    "RABPIT": {
+      "text": "",
+      "source": "unknown",
+      "ids": [
+        "748"
+      ]
+    },
     "Re:nG": {
       "text": "",
       "source": "unknown",
@@ -791,6 +812,13 @@
         "679"
       ]
     },
+    "Shinichi Kobayashi": {
+      "text": "",
+      "source": "unknown",
+      "ids": [
+        "747"
+      ]
+    },
     "Shu": {
       "text": "",
       "source": "unknown",
@@ -803,6 +831,13 @@
       "source": "unknown",
       "ids": [
         "406"
+      ]
+    },
+    "Sta": {
+      "text": "",
+      "source": "unknown",
+      "ids": [
+        "749"
       ]
     },
     "Synthion": {
@@ -880,6 +915,13 @@
       "ids": [
         "105",
         "240"
+      ]
+    },
+    "Yoshikatsu Fukuhara": {
+      "text": "",
+      "source": "unknown",
+      "ids": [
+        "747"
       ]
     },
     "ZUN（上海アリス幻樂団）": {
@@ -1337,6 +1379,13 @@
         "288"
       ]
     },
+    "xi": {
+      "text": "",
+      "source": "unknown",
+      "ids": [
+        "745"
+      ]
+    },
     "yanagi": {
       "text": "",
       "source": "unknown",
@@ -1371,6 +1420,13 @@
       "ids": [
         "540",
         "571"
+      ]
+    },
+    "Æsir": {
+      "text": "",
+      "source": "unknown",
+      "ids": [
+        "744"
       ]
     },
     "ЯIRE, Mitchie M": {
@@ -2422,7 +2478,8 @@
       "source": "unknown",
       "ids": [
         "72",
-        "257"
+        "257",
+        "760"
       ]
     },
     "和田たけあき(くらげP)": {
@@ -3088,6 +3145,20 @@
         "224"
       ]
     },
+    "99 Glooms": {
+      "text": "99 Glooms",
+      "source": "human",
+      "ids": [
+        "749"
+      ]
+    },
+    "ANiMA": {
+      "text": "ANiMA",
+      "source": "human",
+      "ids": [
+        "745"
+      ]
+    },
     "ARQETYPE": {
       "text": "ARQETYPE",
       "source": "human",
@@ -3191,6 +3262,13 @@
       "source": "human",
       "ids": [
         "513"
+      ]
+    },
+    "CHAOS": {
+      "text": "混沌",
+      "source": "human",
+      "ids": [
+        "744"
       ]
     },
     "CIRCUS PANIC!!!": {
@@ -3578,6 +3656,13 @@
         "449"
       ]
     },
+    "Masquerade": {
+      "text": "假面舞会",
+      "source": "human",
+      "ids": [
+        "746"
+      ]
+    },
     "Miku": {
       "text": "Miku",
       "source": "human",
@@ -3697,6 +3782,13 @@
         "717"
       ]
     },
+    "SAIRAI": {
+      "text": "SAIRAI\n",
+      "source": "human",
+      "ids": [
+        "747"
+      ]
+    },
     "SAN値直葬": {
       "text": "SAN值直葬",
       "source": "human",
@@ -3730,6 +3822,13 @@
       "source": "human",
       "ids": [
         "448"
+      ]
+    },
+    "Saika": {
+      "text": "Saika",
+      "source": "human",
+      "ids": [
+        "748"
       ]
     },
     "Shadow Shadow": {
@@ -4857,6 +4956,13 @@
       "source": "human",
       "ids": [
         "521"
+      ]
+    },
+    "オールイン・ワン": {
+      "text": "万象·归一",
+      "source": "human",
+      "ids": [
+        "760"
       ]
     },
     "オールセーブチャレンジ": {
@@ -7843,7 +7949,13 @@
         "1265",
         "1429",
         "1430",
-        "1431"
+        "1431",
+        "1301",
+        "1302",
+        "1303",
+        "1304",
+        "1305",
+        "1306"
       ]
     },
     "Leo/need ver.": {
@@ -8452,7 +8564,10 @@
         "1828",
         "1831",
         "1832",
-        "1833"
+        "1833",
+        "1836",
+        "1837",
+        "1838"
       ]
     },
     "エイプリルフールver.": {
@@ -8936,7 +9051,8 @@
         "1829",
         "1830",
         "1834",
-        "1835"
+        "1835",
+        "1839"
       ]
     },
     "バーチャル・シンガーver.": {
@@ -9626,7 +9742,8 @@
         "1290",
         "1312",
         "1314",
-        "1299"
+        "1299",
+        "1317"
       ]
     },
     "ワンダーランズ×ショウタイム ver.": {
