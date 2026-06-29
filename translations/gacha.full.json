@@ -2685,7 +2685,7 @@
       ]
     },
     "[復刻][白石杏]HAPPY BIRTHDAY2023ガチャ": {
-      "text": "[回响][白石杏]HAPPY BIRTHDAY Stamp招募",
+      "text": "[复刻][白石杏]HAPPY BIRTHDAY Stamp招募",
       "source": "cn",
       "ids": [
         "546",
@@ -2693,14 +2693,14 @@
       ]
     },
     "[復刻][白石杏]HAPPY BIRTHDAY2024ガチャ": {
-      "text": "[回响][白石杏]HAPPY BIRTHDAY 2025招募",
+      "text": "[复刻][白石杏]HAPPY BIRTHDAY 2025招募",
       "source": "cn",
       "ids": [
         "773"
       ]
     },
     "[復刻][白石杏]HAPPY BIRTHDAYガチャ": {
-      "text": "[回响][白石杏]HAPPY BIRTHDAY招募",
+      "text": "[复刻][白石杏]HAPPY BIRTHDAY Flower招募",
       "source": "cn",
       "ids": [
         "354",
@@ -2757,7 +2757,7 @@
       ]
     },
     "[復刻][草薙寧々]HAPPY BIRTHDAY2023ガチャ": {
-      "text": "[回响][草薙宁宁]HAPPY BIRTHDAY Stamp招募",
+      "text": "[复刻][草薙宁宁]HAPPY BIRTHDAY Stamp招募",
       "source": "cn",
       "ids": [
         "543",
@@ -2765,14 +2765,14 @@
       ]
     },
     "[復刻][草薙寧々]HAPPY BIRTHDAY2024ガチャ": {
-      "text": "[回响][草薙宁宁]HAPPY BIRTHDAY 2025招募",
+      "text": "[复刻][草薙宁宁]HAPPY BIRTHDAY 2025招募",
       "source": "cn",
       "ids": [
         "768"
       ]
     },
     "[復刻][草薙寧々]HAPPY BIRTHDAYガチャ": {
-      "text": "[回响][草薙宁宁]HAPPY BIRTHDAY招募",
+      "text": "[复刻][草薙宁宁]HAPPY BIRTHDAY Flower招募",
       "source": "cn",
       "ids": [
         "351",
@@ -3089,8 +3089,8 @@
       ]
     },
     "[復刻]秋宵深まる黄昏時にガチャ": {
-      "text": "[复刻] 秋宵渐深黄昏时招募",
-      "source": "human",
+      "text": "[复刻]秋意渐深的黄昏招募",
+      "source": "cn",
       "ids": [
         "616",
         "751"
@@ -3105,8 +3105,8 @@
       ]
     },
     "[復刻]華の都へご招待ガチャ": {
-      "text": "[复刻] 华丽之都的邀请 招募",
-      "source": "human",
+      "text": "[复刻]欢迎来到花之城招募",
+      "source": "cn",
       "ids": [
         "632",
         "788"
@@ -4184,7 +4184,8 @@
         "916",
         "929",
         "942",
-        "957"
+        "957",
+        "968"
       ]
     },
     "カラフルフェスティバルガチャ": {
@@ -4196,9 +4197,16 @@
         "345"
       ]
     },
-    "キミに咲うfuzzy daisyガチャ": {
-      "text": "为你绽放的毛绒雏菊招募",
+    "キミと過ごすバケーション！ガチャ": {
+      "text": "与你共度的假期！招募",
       "source": "human",
+      "ids": [
+        "967"
+      ]
+    },
+    "キミに咲うfuzzy daisyガチャ": {
+      "text": "向你绽放笑容的fuzzy daisy招募",
+      "source": "cn",
       "ids": [
         "789"
       ]
@@ -4357,7 +4365,8 @@
       "source": "cn",
       "ids": [
         "533",
-        "762"
+        "762",
+        "966"
       ]
     },
     "ペンギンカフェへようこそ♪ガチャ": {
