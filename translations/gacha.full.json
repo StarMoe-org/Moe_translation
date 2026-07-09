@@ -652,8 +652,8 @@
       ]
     },
     "Velvet Afternoonガチャ": {
-      "text": "Velvet Afternoon 招募",
-      "source": "human",
+      "text": "Velvet Afternoon招募",
+      "source": "cn",
       "ids": [
         "803"
       ]
@@ -1822,8 +1822,8 @@
       ]
     },
     "[初音ミク]HAPPY ANNIVERSARY2025ガチャ": {
-      "text": "[初音未来] HAPPY ANNIVERSARY 2025 招募",
-      "source": "human",
+      "text": "[初音未来]HAPPY ANNIVERSARY2026招募",
+      "source": "cn",
       "ids": [
         "795"
       ]
@@ -2206,6 +2206,13 @@
         "511"
       ]
     },
+    "[復刻]Strange Workshopガチャ": {
+      "text": "[复刻]Strange Workshop招募",
+      "source": "human",
+      "ids": [
+        "972"
+      ]
+    },
     "[復刻]Sweet Cute Valentine！ガチャ": {
       "text": "[回响]Sweet Cute Valentine！招募",
       "source": "cn",
@@ -2309,14 +2316,14 @@
       ]
     },
     "[復刻][初音ミク]HAPPY ANNIVERSARY2024ガチャ": {
-      "text": "[复刻] [初音未来] HAPPY ANNIVERSARY 2024 招募",
-      "source": "human",
+      "text": "[回响][初音未来]HAPPY ANNIVERSARY2025招募",
+      "source": "cn",
       "ids": [
         "796"
       ]
     },
     "[復刻][初音ミク]HAPPY ANNIVERSARYガチャ": {
-      "text": "[回响][初音未来]HAPPY ANNIVERSARY Flower招募",
+      "text": "[回响][初音未来]HAPPY ANNIVERSARY招募",
       "source": "cn",
       "ids": [
         "367",
@@ -2525,14 +2532,14 @@
       ]
     },
     "[復刻][暁山瑞希]HAPPY BIRTHDAY2024ガチャ": {
-      "text": "[复刻] [晓山瑞希] HAPPY BIRTHDAY 2024 招募",
-      "source": "human",
+      "text": "[回响][晓山瑞希]HAPPY BIRTHDAY 2025招募",
+      "source": "cn",
       "ids": [
         "791"
       ]
     },
     "[復刻][暁山瑞希]HAPPY BIRTHDAYガチャ": {
-      "text": "[回响][晓山瑞希]HAPPY BIRTHDAY Flower招募",
+      "text": "[回响][晓山瑞希]HAPPY BIRTHDAY招募",
       "source": "cn",
       "ids": [
         "365",
@@ -3077,7 +3084,8 @@
       "text": "[复刻] 玲珑追忆招募",
       "source": "human",
       "ids": [
-        "892"
+        "892",
+        "973"
       ]
     },
     "[復刻]神獣たちの年始ガチャ": {
@@ -3263,8 +3271,8 @@
       ]
     },
     "[暁山瑞希]HAPPY BIRTHDAY2025ガチャ": {
-      "text": "[晓山瑞希] HAPPY BIRTHDAY 2025 招募",
-      "source": "human",
+      "text": "[晓山瑞希]HAPPY BIRTHDAY 2026招募",
+      "source": "cn",
       "ids": [
         "790"
       ]
@@ -3675,11 +3683,25 @@
         "767"
       ]
     },
+    "[草薙寧々]HAPPY BIRTHDAY2026ガチャ": {
+      "text": "[草薙宁宁]HAPPY BIRTHDAY 2026招募",
+      "source": "human",
+      "ids": [
+        "974"
+      ]
+    },
     "[草薙寧々]HAPPY BIRTHDAYガチャ": {
       "text": "[草薙宁宁]HAPPY BIRTHDAY 招募",
       "source": "human",
       "ids": [
         "222"
+      ]
+    },
+    "[草薙寧々]HAPPY BIRTHDAYメモリーズガチャ": {
+      "text": "[草薙宁宁]HAPPY BIRTHDAY 纪念招募",
+      "source": "human",
+      "ids": [
+        "975"
       ]
     },
     "[行く年2020]カラフルフェスティバルガチャ": {
@@ -4496,6 +4518,13 @@
         "958"
       ]
     },
+    "ワールドリンクイベント Part4 サポートガチャ": {
+      "text": "「wl3」连接世界活动 第四章 支援招募",
+      "source": "human",
+      "ids": [
+        "971"
+      ]
+    },
     "ヴェールの向こうのあなたへガチャ": {
       "text": "致面纱彼端的你招募",
       "source": "human",
@@ -4908,8 +4937,8 @@
       ]
     },
     "絶望の雨すら笑ってガチャ": {
-      "text": "连绝望之雨也付之一笑 招募",
-      "source": "human",
+      "text": "对绝望之雨也一笑了之招募",
+      "source": "cn",
       "ids": [
         "799"
       ]
@@ -4975,6 +5004,13 @@
       "source": "human",
       "ids": [
         "118"
+      ]
+    },
+    "透き明く記憶の真ん中でガチャ": {
+      "text": "在澄澈的记忆深处招募",
+      "source": "human",
+      "ids": [
+        "970"
       ]
     },
     "進む車輪のその先はガチャ": {
