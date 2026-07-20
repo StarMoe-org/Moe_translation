@@ -4776,8 +4776,8 @@
       ]
     },
     "アストロノーツ": {
-      "text": "",
-      "source": "unknown",
+      "text": "Astronauts",
+      "source": "human",
       "ids": [
         "792"
       ]
@@ -5238,8 +5238,8 @@
       ]
     },
     "シティライツ": {
-      "text": "",
-      "source": "unknown",
+      "text": "都市霓虹",
+      "source": "human",
       "ids": [
         "791"
       ]
@@ -5868,8 +5868,8 @@
       ]
     },
     "ピッコーン！！": {
-      "text": "",
-      "source": "unknown",
+      "text": "Pikkon!!",
+      "source": "human",
       "ids": [
         "790"
       ]

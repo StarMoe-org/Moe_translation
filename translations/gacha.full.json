@@ -2868,14 +2868,14 @@
       ]
     },
     "[復刻][鳳えむ]HAPPY BIRTHDAY2024ガチャ": {
-      "text": "[复刻] [凤笑梦] HAPPY BIRTHDAY 2024 招募",
-      "source": "human",
+      "text": "[回响][凤笑梦]HAPPY BIRTHDAY 2025招募",
+      "source": "cn",
       "ids": [
         "805"
       ]
     },
     "[復刻][鳳えむ]HAPPY BIRTHDAYガチャ": {
-      "text": "[回响][凤笑梦]HAPPY BIRTHDAY Flower招募",
+      "text": "[回响][凤笑梦]HAPPY BIRTHDAY招募",
       "source": "cn",
       "ids": [
         "371",
@@ -3571,11 +3571,25 @@
         "772"
       ]
     },
+    "[白石杏]HAPPY BIRTHDAY2026ガチャ": {
+      "text": "[白石杏]HAPPY BIRTHDAY 2026招募",
+      "source": "human",
+      "ids": [
+        "977"
+      ]
+    },
     "[白石杏]HAPPY BIRTHDAYガチャ": {
       "text": "[白石杏]HAPPY BIRTHDAY 招募",
       "source": "human",
       "ids": [
         "224"
+      ]
+    },
+    "[白石杏]HAPPY BIRTHDAYメモリーズガチャ": {
+      "text": "[白石杏]HAPPY BIRTHDAY 纪念招募",
+      "source": "human",
+      "ids": [
+        "978"
       ]
     },
     "[神代類]HAPPY BIRTHDAY2023ガチャ": {
@@ -3852,8 +3866,8 @@
       ]
     },
     "[鳳えむ]HAPPY BIRTHDAY2025ガチャ": {
-      "text": "[凤笑梦] HAPPY BIRTHDAY 2025 招募",
-      "source": "human",
+      "text": "[凤笑梦]HAPPY BIRTHDAY 2026招募",
+      "source": "cn",
       "ids": [
         "804"
       ]
@@ -3863,6 +3877,13 @@
       "source": "cn",
       "ids": [
         "235"
+      ]
+    },
+    "around table WITH you!ガチャ": {
+      "text": "和你一同围坐桌边！招募",
+      "source": "human",
+      "ids": [
+        "976"
       ]
     },
     "going upstairsガチャ": {
@@ -4344,7 +4365,8 @@
         "745",
         "849",
         "900",
-        "938"
+        "938",
+        "980"
       ]
     },
     "ハーフアニバーサリー記念カラフルフェスティバルガチャ": {
@@ -4495,6 +4517,13 @@
       "source": "human",
       "ids": [
         "877"
+      ]
+    },
+    "ワールドコスチュームガチャ vol.5": {
+      "text": "世界服装招募 vol.5",
+      "source": "human",
+      "ids": [
+        "979"
       ]
     },
     "ワールドリンクイベント Part1 サポートガチャ": {
