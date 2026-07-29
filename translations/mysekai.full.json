@@ -1226,22 +1226,22 @@
       ]
     },
     "[リミテッドスタイル vol.2] KAITOのぬいぐるみ/L": {
-      "text": "[限定款式 vol.2] KAITO毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]KAITO玩偶/L",
+      "source": "cn",
       "ids": [
         "1085"
       ]
     },
     "[リミテッドスタイル vol.2] KAITOのぬいぐるみ/M": {
-      "text": "[限定款式 vol.2] KAITO毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]KAITO玩偶/M",
+      "source": "cn",
       "ids": [
         "1084"
       ]
     },
     "[リミテッドスタイル vol.2] KAITOのぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] KAITO毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]KAITO玩偶/S",
+      "source": "cn",
       "ids": [
         "1083"
       ]
@@ -1310,85 +1310,85 @@
       ]
     },
     "[リミテッドスタイル vol.2] まふゆのぬいぐるみ/L": {
-      "text": "[限定款式 vol.2] 真冬毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]真冬的玩偶/L",
+      "source": "cn",
       "ids": [
         "1046"
       ]
     },
     "[リミテッドスタイル vol.2] まふゆのぬいぐるみ/M": {
-      "text": "[限定款式 vol.2] 真冬毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]真冬的玩偶/M",
+      "source": "cn",
       "ids": [
         "1045"
       ]
     },
     "[リミテッドスタイル vol.2] まふゆのぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] 真冬毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]真冬的玩偶/S",
+      "source": "cn",
       "ids": [
         "1044"
       ]
     },
     "[リミテッドスタイル vol.2] みのりのぬいぐるみ/L": {
-      "text": "[限定款式 vol.2] 实乃里毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]实乃理玩偶/L",
+      "source": "cn",
       "ids": [
         "1073"
       ]
     },
     "[リミテッドスタイル vol.2] みのりのぬいぐるみ/M": {
-      "text": "[限定风格 vol.2] 实乃里毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]实乃理玩偶/M",
+      "source": "cn",
       "ids": [
         "1072"
       ]
     },
     "[リミテッドスタイル vol.2] みのりのぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] 实乃里毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]实乃理玩偶/S",
+      "source": "cn",
       "ids": [
         "1071"
       ]
     },
     "[リミテッドスタイル vol.2] ミクのぬいぐるみ/L": {
-      "text": "[限定款式 vol.2] 未来毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]未来的玩偶/L",
+      "source": "cn",
       "ids": [
         "1049"
       ]
     },
     "[リミテッドスタイル vol.2] ミクのぬいぐるみ/M": {
-      "text": "[限定款式 vol.2] 未来毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]未来的玩偶/M",
+      "source": "cn",
       "ids": [
         "1048"
       ]
     },
     "[リミテッドスタイル vol.2] ミクのぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] 未来毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]未来的玩偶/S",
+      "source": "cn",
       "ids": [
         "1047"
       ]
     },
     "[リミテッドスタイル vol.2] リンのぬいぐるみ/L": {
-      "text": "[限定款式 vol.2] 铃毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]铃的玩偶/L",
+      "source": "cn",
       "ids": [
         "1052"
       ]
     },
     "[リミテッドスタイル vol.2] リンのぬいぐるみ/M": {
-      "text": "[限定款式 vol.2] 铃毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]铃的玩偶/M",
+      "source": "cn",
       "ids": [
         "1051"
       ]
     },
     "[リミテッドスタイル vol.2] リンのぬいぐるみ/S": {
-      "text": "[限定风格 vol.2] 铃毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]铃的玩偶/S",
+      "source": "cn",
       "ids": [
         "1050"
       ]
@@ -1457,106 +1457,106 @@
       ]
     },
     "[リミテッドスタイル vol.2] 冬弥のぬいぐるみ/L": {
-      "text": "[限定风格 vol.2] 冬弥毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]冬弥玩偶/L",
+      "source": "cn",
       "ids": [
         "1076"
       ]
     },
     "[リミテッドスタイル vol.2] 冬弥のぬいぐるみ/M": {
-      "text": "[限定款式 vol.2] 冬弥毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]冬弥玩偶/M",
+      "source": "cn",
       "ids": [
         "1075"
       ]
     },
     "[リミテッドスタイル vol.2] 冬弥のぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] 冬弥毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]冬弥玩偶/S",
+      "source": "cn",
       "ids": [
         "1074"
       ]
     },
     "[リミテッドスタイル vol.2] 司のぬいぐるみ/L": {
-      "text": "[限定风格 vol.2] 司毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]司的玩偶/L",
+      "source": "cn",
       "ids": [
         "1043"
       ]
     },
     "[リミテッドスタイル vol.2] 司のぬいぐるみ/M": {
-      "text": "[限定款式 vol.2] 司的毛绒玩具/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]司的玩偶/M",
+      "source": "cn",
       "ids": [
         "1042"
       ]
     },
     "[リミテッドスタイル vol.2] 司のぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] 司毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]司的玩偶/S",
+      "source": "cn",
       "ids": [
         "1041"
       ]
     },
     "[リミテッドスタイル vol.2] 咲希のぬいぐるみ/L": {
-      "text": "[限定风格 vol.2] 咲希毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]咲希的玩偶/L",
+      "source": "cn",
       "ids": [
         "1034"
       ]
     },
     "[リミテッドスタイル vol.2] 咲希のぬいぐるみ/M": {
-      "text": "[限定款式 vol.2] 咲希毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]咲希的玩偶/M",
+      "source": "cn",
       "ids": [
         "1033"
       ]
     },
     "[リミテッドスタイル vol.2] 咲希のぬいぐるみ/S": {
-      "text": "[限定风格 vol.2] 咲希毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]咲希的玩偶/S",
+      "source": "cn",
       "ids": [
         "1032"
       ]
     },
     "[リミテッドスタイル vol.2] 奏のぬいぐるみ/L": {
-      "text": "[限定款式 vol.2] 奏毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]奏玩偶/L",
+      "source": "cn",
       "ids": [
         "1082"
       ]
     },
     "[リミテッドスタイル vol.2] 奏のぬいぐるみ/M": {
-      "text": "[限定款式 vol.2] 奏毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]奏玩偶/M",
+      "source": "cn",
       "ids": [
         "1081"
       ]
     },
     "[リミテッドスタイル vol.2] 奏のぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] 奏毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]奏玩偶/S",
+      "source": "cn",
       "ids": [
         "1080"
       ]
     },
     "[リミテッドスタイル vol.2] 寧々のぬいぐるみ/L": {
-      "text": "[限定款式 vol.2] 宁宁毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]宁宁玩偶/L",
+      "source": "cn",
       "ids": [
         "1079"
       ]
     },
     "[リミテッドスタイル vol.2] 寧々のぬいぐるみ/M": {
-      "text": "[限定款式 vol.2] 宁宁毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]宁宁玩偶/M",
+      "source": "cn",
       "ids": [
         "1078"
       ]
     },
     "[リミテッドスタイル vol.2] 寧々のぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] 宁宁的毛绒玩具/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]宁宁玩偶/S",
+      "source": "cn",
       "ids": [
         "1077"
       ]
@@ -1583,22 +1583,22 @@
       ]
     },
     "[リミテッドスタイル vol.2] 志歩のぬいぐるみ/L": {
-      "text": "[限定风格 vol.2] 志步毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]志步玩偶/L",
+      "source": "cn",
       "ids": [
         "1070"
       ]
     },
     "[リミテッドスタイル vol.2] 志歩のぬいぐるみ/M": {
-      "text": "[限定款式 vol.2] 志步毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]志步玩偶/M",
+      "source": "cn",
       "ids": [
         "1069"
       ]
     },
     "[リミテッドスタイル vol.2] 志歩のぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] 志步毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]志步玩偶/S",
+      "source": "cn",
       "ids": [
         "1068"
       ]
@@ -1625,22 +1625,22 @@
       ]
     },
     "[リミテッドスタイル vol.2] 杏のぬいぐるみ/L": {
-      "text": "[限定风格 vol.2] 杏毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]杏的玩偶/L",
+      "source": "cn",
       "ids": [
         "1040"
       ]
     },
     "[リミテッドスタイル vol.2] 杏のぬいぐるみ/M": {
-      "text": "[限定款式 vol.2] 杏毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]杏的玩偶/M",
+      "source": "cn",
       "ids": [
         "1039"
       ]
     },
     "[リミテッドスタイル vol.2] 杏のぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] 杏毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]杏的玩偶/S",
+      "source": "cn",
       "ids": [
         "1038"
       ]
@@ -1709,22 +1709,22 @@
       ]
     },
     "[リミテッドスタイル vol.2] 遥のぬいぐるみ/L": {
-      "text": "[限定款式 vol.2] 遥毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]遥的玩偶/L",
+      "source": "cn",
       "ids": [
         "1037"
       ]
     },
     "[リミテッドスタイル vol.2] 遥のぬいぐるみ/M": {
-      "text": "[限定款式 vol.2] 遥毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]遥的玩偶/M",
+      "source": "cn",
       "ids": [
         "1036"
       ]
     },
     "[リミテッドスタイル vol.2] 遥のぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] 遥毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]遥的玩偶/S",
+      "source": "cn",
       "ids": [
         "1035"
       ]
@@ -11560,22 +11560,22 @@
       ]
     },
     "[リミテッドスタイル vol.2] KAITOのぬいぐるみ/L": {
-      "text": "[限定款式 vol.2] KAITO毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]KAITO玩偶/L",
+      "source": "cn",
       "ids": [
         "1085"
       ]
     },
     "[リミテッドスタイル vol.2] KAITOのぬいぐるみ/M": {
-      "text": "[限定风格 vol.2] KAITO毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]KAITO玩偶/M",
+      "source": "cn",
       "ids": [
         "1084"
       ]
     },
     "[リミテッドスタイル vol.2] KAITOのぬいぐるみ/S": {
-      "text": "[限定风格 vol.2] KAITO毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]KAITO玩偶/S",
+      "source": "cn",
       "ids": [
         "1083"
       ]
@@ -11644,78 +11644,78 @@
       ]
     },
     "[リミテッドスタイル vol.2] まふゆのぬいぐるみ/L": {
-      "text": "[限定款式 vol.2] 真冬毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]真冬的玩偶/L",
+      "source": "cn",
       "ids": [
         "1046"
       ]
     },
     "[リミテッドスタイル vol.2] まふゆのぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] 真冬毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]真冬的玩偶/S",
+      "source": "cn",
       "ids": [
         "1044"
       ]
     },
     "[リミテッドスタイル vol.2] みのりのぬいぐるみ/L": {
-      "text": "[限量款样式 vol.2] 实乃里毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]实乃理玩偶/L",
+      "source": "cn",
       "ids": [
         "1073"
       ]
     },
     "[リミテッドスタイル vol.2] みのりのぬいぐるみ/M": {
-      "text": "[限定款式 vol.2] 实乃里毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]实乃理玩偶/M",
+      "source": "cn",
       "ids": [
         "1072"
       ]
     },
     "[リミテッドスタイル vol.2] みのりのぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] 实乃里毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]实乃理玩偶/S",
+      "source": "cn",
       "ids": [
         "1071"
       ]
     },
     "[リミテッドスタイル vol.2] ミクのぬいぐるみ/L": {
-      "text": "[限定款式 vol.2] 初音未来毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]未来的玩偶/L",
+      "source": "cn",
       "ids": [
         "1049"
       ]
     },
     "[リミテッドスタイル vol.2] ミクのぬいぐるみ/M": {
-      "text": "[限定风格 vol.2] 未来毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]未来的玩偶/M",
+      "source": "cn",
       "ids": [
         "1048"
       ]
     },
     "[リミテッドスタイル vol.2] ミクのぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] 未来毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]未来的玩偶/S",
+      "source": "cn",
       "ids": [
         "1047"
       ]
     },
     "[リミテッドスタイル vol.2] リンのぬいぐるみ/L": {
-      "text": "[限定样式 vol.2] 铃毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]铃的玩偶/L",
+      "source": "cn",
       "ids": [
         "1052"
       ]
     },
     "[リミテッドスタイル vol.2] リンのぬいぐるみ/M": {
-      "text": "[限定款式 vol.2] 铃毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]铃的玩偶/M",
+      "source": "cn",
       "ids": [
         "1051"
       ]
     },
     "[リミテッドスタイル vol.2] リンのぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] 铃毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]铃的玩偶/S",
+      "source": "cn",
       "ids": [
         "1050"
       ]
@@ -11784,71 +11784,71 @@
       ]
     },
     "[リミテッドスタイル vol.2] 冬弥のぬいぐるみ/L": {
-      "text": "[限定款式 vol.2] 冬弥毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]冬弥玩偶/L",
+      "source": "cn",
       "ids": [
         "1076"
       ]
     },
     "[リミテッドスタイル vol.2] 冬弥のぬいぐるみ/M": {
-      "text": "[限定风格 vol.2] 冬弥毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]冬弥玩偶/M",
+      "source": "cn",
       "ids": [
         "1075"
       ]
     },
     "[リミテッドスタイル vol.2] 冬弥のぬいぐるみ/S": {
-      "text": "[限定风格 vol.2] 冬弥毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]冬弥玩偶/S",
+      "source": "cn",
       "ids": [
         "1074"
       ]
     },
     "[リミテッドスタイル vol.2] 司のぬいぐるみ/L": {
-      "text": "[限定款式 vol.2] 司毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]司的玩偶/L",
+      "source": "cn",
       "ids": [
         "1043"
       ]
     },
     "[リミテッドスタイル vol.2] 司のぬいぐるみ/M": {
-      "text": "[限定风格 vol.2] 司毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]司的玩偶/M",
+      "source": "cn",
       "ids": [
         "1042"
       ]
     },
     "[リミテッドスタイル vol.2] 司のぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] 司毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]司的玩偶/S",
+      "source": "cn",
       "ids": [
         "1041"
       ]
     },
     "[リミテッドスタイル vol.2] 咲希のぬいぐるみ/L": {
-      "text": "[限定款式 vol.2] 咲希毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]咲希的玩偶/L",
+      "source": "cn",
       "ids": [
         "1034"
       ]
     },
     "[リミテッドスタイル vol.2] 咲希のぬいぐるみ/M": {
-      "text": "[限定风格 vol.2] 咲希毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]咲希的玩偶/M",
+      "source": "cn",
       "ids": [
         "1033"
       ]
     },
     "[リミテッドスタイル vol.2] 咲希のぬいぐるみ/S": {
-      "text": "[限定风格 vol.2] 咲希毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]咲希的玩偶/S",
+      "source": "cn",
       "ids": [
         "1032"
       ]
     },
     "[リミテッドスタイル vol.2] 奏のぬいぐるみ/L": {
-      "text": "[限定风格 vol.2] 奏毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]奏玩偶/L",
+      "source": "cn",
       "ids": [
         "1082"
       ]
@@ -11861,29 +11861,29 @@
       ]
     },
     "[リミテッドスタイル vol.2] 奏のぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] 奏毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]奏玩偶/S",
+      "source": "cn",
       "ids": [
         "1080"
       ]
     },
     "[リミテッドスタイル vol.2] 寧々のぬいぐるみ/L": {
-      "text": "[限定样式 vol.2] 宁宁毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]宁宁玩偶/L",
+      "source": "cn",
       "ids": [
         "1079"
       ]
     },
     "[リミテッドスタイル vol.2] 寧々のぬいぐるみ/M": {
-      "text": "[限定风格 vol.2] 宁宁毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]宁宁玩偶/M",
+      "source": "cn",
       "ids": [
         "1078"
       ]
     },
     "[リミテッドスタイル vol.2] 寧々のぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] 宁宁毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]宁宁玩偶/S",
+      "source": "cn",
       "ids": [
         "1077"
       ]
@@ -11910,22 +11910,22 @@
       ]
     },
     "[リミテッドスタイル vol.2] 志歩のぬいぐるみ/L": {
-      "text": "[限定款式 vol.2] 志步毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]志步玩偶/L",
+      "source": "cn",
       "ids": [
         "1070"
       ]
     },
     "[リミテッドスタイル vol.2] 志歩のぬいぐるみ/M": {
-      "text": "[限定款式 vol.2] 志步毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]志步玩偶/M",
+      "source": "cn",
       "ids": [
         "1069"
       ]
     },
     "[リミテッドスタイル vol.2] 志歩のぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] 志步毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]志步玩偶/S",
+      "source": "cn",
       "ids": [
         "1068"
       ]
@@ -11952,22 +11952,22 @@
       ]
     },
     "[リミテッドスタイル vol.2] 杏のぬいぐるみ/L": {
-      "text": "[限定款式 vol.2] 杏毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]杏的玩偶/L",
+      "source": "cn",
       "ids": [
         "1040"
       ]
     },
     "[リミテッドスタイル vol.2] 杏のぬいぐるみ/M": {
-      "text": "[限定风格 vol.2] 杏毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]杏的玩偶/M",
+      "source": "cn",
       "ids": [
         "1039"
       ]
     },
     "[リミテッドスタイル vol.2] 杏のぬいぐるみ/S": {
-      "text": "[限定风格 vol.2] 杏毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]杏的玩偶/S",
+      "source": "cn",
       "ids": [
         "1038"
       ]
@@ -12036,22 +12036,22 @@
       ]
     },
     "[リミテッドスタイル vol.2] 遥のぬいぐるみ/L": {
-      "text": "[限定风格 vol.2] 遥毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]遥的玩偶/L",
+      "source": "cn",
       "ids": [
         "1037"
       ]
     },
     "[リミテッドスタイル vol.2] 遥のぬいぐるみ/M": {
-      "text": "[限定风格 vol.2] 遥毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]遥的玩偶/M",
+      "source": "cn",
       "ids": [
         "1036"
       ]
     },
     "[リミテッドスタイル vol.2] 遥のぬいぐるみ/S": {
-      "text": "[限定风格 vol.2] 遥毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]遥的玩偶/S",
+      "source": "cn",
       "ids": [
         "1035"
       ]
@@ -12099,8 +12099,8 @@
       ]
     },
     "[リミテッドスタイル vol.2]まふゆのぬいぐるみ/M": {
-      "text": "[限定款式 vol.2] 真冬毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]真冬的玩偶/M",
+      "source": "cn",
       "ids": [
         "1045"
       ]
@@ -16761,8 +16761,8 @@
       ]
     },
     "バースデーガーランド（穂波）": {
-      "text": "生日拉旗（穗波）",
-      "source": "human",
+      "text": "生日装饰拉花（穗波）",
+      "source": "cn",
       "ids": [
         "852"
       ]
@@ -16881,7 +16881,7 @@
     },
     "バースデーケーキ（穂波）": {
       "text": "生日蛋糕（穗波）",
-      "source": "human",
+      "source": "cn",
       "ids": [
         "849"
       ]
@@ -17000,7 +17000,7 @@
     },
     "バースデーチェア（穂波）": {
       "text": "生日椅子（穗波）",
-      "source": "human",
+      "source": "cn",
       "ids": [
         "853"
       ]
@@ -17119,7 +17119,7 @@
     },
     "バースデーバルーン（穂波）": {
       "text": "生日气球（穗波）",
-      "source": "human",
+      "source": "cn",
       "ids": [
         "850"
       ]
@@ -17238,7 +17238,7 @@
     },
     "バースデーブーケ（穂波）": {
       "text": "生日花束（穗波）",
-      "source": "human",
+      "source": "cn",
       "ids": [
         "851"
       ]
@@ -22190,22 +22190,22 @@
       ]
     },
     "[リミテッドスタイル vol.2] KAITOのぬいぐるみ/L": {
-      "text": "[限定款式 vol.2] KAITO毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]KAITO玩偶/L",
+      "source": "cn",
       "ids": [
         "10982"
       ]
     },
     "[リミテッドスタイル vol.2] KAITOのぬいぐるみ/M": {
-      "text": "[限定风格 vol.2] KAITO毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]KAITO玩偶/M",
+      "source": "cn",
       "ids": [
         "10981"
       ]
     },
     "[リミテッドスタイル vol.2] KAITOのぬいぐるみ/S": {
-      "text": "[限定风格 vol.2] KAITO毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]KAITO玩偶/S",
+      "source": "cn",
       "ids": [
         "10980"
       ]
@@ -22274,78 +22274,78 @@
       ]
     },
     "[リミテッドスタイル vol.2] まふゆのぬいぐるみ/L": {
-      "text": "[限定款式 vol.2] 真冬毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]真冬的玩偶/L",
+      "source": "cn",
       "ids": [
         "10925"
       ]
     },
     "[リミテッドスタイル vol.2] まふゆのぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] 真冬毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]真冬的玩偶/S",
+      "source": "cn",
       "ids": [
         "10923"
       ]
     },
     "[リミテッドスタイル vol.2] みのりのぬいぐるみ/L": {
-      "text": "[限量款样式 vol.2] 实乃里毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]实乃理玩偶/L",
+      "source": "cn",
       "ids": [
         "10970"
       ]
     },
     "[リミテッドスタイル vol.2] みのりのぬいぐるみ/M": {
-      "text": "[限定款式 vol.2] 实乃里毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]实乃理玩偶/M",
+      "source": "cn",
       "ids": [
         "10969"
       ]
     },
     "[リミテッドスタイル vol.2] みのりのぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] 实乃里毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]实乃理玩偶/S",
+      "source": "cn",
       "ids": [
         "10968"
       ]
     },
     "[リミテッドスタイル vol.2] ミクのぬいぐるみ/L": {
-      "text": "[限定款式 vol.2] 初音未来毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]未来的玩偶/L",
+      "source": "cn",
       "ids": [
         "10928"
       ]
     },
     "[リミテッドスタイル vol.2] ミクのぬいぐるみ/M": {
-      "text": "[限定风格 vol.2] 未来毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]未来的玩偶/M",
+      "source": "cn",
       "ids": [
         "10927"
       ]
     },
     "[リミテッドスタイル vol.2] ミクのぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] 未来毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]未来的玩偶/S",
+      "source": "cn",
       "ids": [
         "10926"
       ]
     },
     "[リミテッドスタイル vol.2] リンのぬいぐるみ/L": {
-      "text": "[限定样式 vol.2] 铃毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]铃的玩偶/L",
+      "source": "cn",
       "ids": [
         "10931"
       ]
     },
     "[リミテッドスタイル vol.2] リンのぬいぐるみ/M": {
-      "text": "[限定款式 vol.2] 铃毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]铃的玩偶/M",
+      "source": "cn",
       "ids": [
         "10930"
       ]
     },
     "[リミテッドスタイル vol.2] リンのぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] 铃毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]铃的玩偶/S",
+      "source": "cn",
       "ids": [
         "10929"
       ]
@@ -22414,99 +22414,99 @@
       ]
     },
     "[リミテッドスタイル vol.2] 冬弥のぬいぐるみ/L": {
-      "text": "[限定款式 vol.2] 冬弥毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]冬弥玩偶/L",
+      "source": "cn",
       "ids": [
         "10973"
       ]
     },
     "[リミテッドスタイル vol.2] 冬弥のぬいぐるみ/M": {
-      "text": "[限定风格 vol.2] 冬弥毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]冬弥玩偶/M",
+      "source": "cn",
       "ids": [
         "10972"
       ]
     },
     "[リミテッドスタイル vol.2] 冬弥のぬいぐるみ/S": {
-      "text": "[限定风格 vol.2] 冬弥毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]冬弥玩偶/S",
+      "source": "cn",
       "ids": [
         "10971"
       ]
     },
     "[リミテッドスタイル vol.2] 司のぬいぐるみ/L": {
-      "text": "[限定款式 vol.2] 司毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]司的玩偶/L",
+      "source": "cn",
       "ids": [
         "10922"
       ]
     },
     "[リミテッドスタイル vol.2] 司のぬいぐるみ/M": {
-      "text": "[限定风格 vol.2] 司毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]司的玩偶/M",
+      "source": "cn",
       "ids": [
         "10921"
       ]
     },
     "[リミテッドスタイル vol.2] 司のぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] 司毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]司的玩偶/S",
+      "source": "cn",
       "ids": [
         "10920"
       ]
     },
     "[リミテッドスタイル vol.2] 咲希のぬいぐるみ/L": {
-      "text": "[限定款式 vol.2] 咲希毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]咲希的玩偶/L",
+      "source": "cn",
       "ids": [
         "10913"
       ]
     },
     "[リミテッドスタイル vol.2] 咲希のぬいぐるみ/M": {
-      "text": "[限定风格 vol.2] 咲希毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]咲希的玩偶/M",
+      "source": "cn",
       "ids": [
         "10912"
       ]
     },
     "[リミテッドスタイル vol.2] 咲希のぬいぐるみ/S": {
-      "text": "[限定风格 vol.2] 咲希毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]咲希的玩偶/S",
+      "source": "cn",
       "ids": [
         "10911"
       ]
     },
     "[リミテッドスタイル vol.2] 奏のぬいぐるみ/L": {
-      "text": "[限定风格 vol.2] 奏毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]奏玩偶/L",
+      "source": "cn",
       "ids": [
         "10979"
       ]
     },
     "[リミテッドスタイル vol.2] 奏のぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] 奏毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]奏玩偶/S",
+      "source": "cn",
       "ids": [
         "10977"
       ]
     },
     "[リミテッドスタイル vol.2] 寧々のぬいぐるみ/L": {
-      "text": "[限定样式 vol.2] 宁宁毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]宁宁玩偶/L",
+      "source": "cn",
       "ids": [
         "10976"
       ]
     },
     "[リミテッドスタイル vol.2] 寧々のぬいぐるみ/M": {
-      "text": "[限定风格 vol.2] 宁宁毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]宁宁玩偶/M",
+      "source": "cn",
       "ids": [
         "10975"
       ]
     },
     "[リミテッドスタイル vol.2] 寧々のぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] 宁宁毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]宁宁玩偶/S",
+      "source": "cn",
       "ids": [
         "10974"
       ]
@@ -22533,22 +22533,22 @@
       ]
     },
     "[リミテッドスタイル vol.2] 志歩のぬいぐるみ/L": {
-      "text": "[限定款式 vol.2] 志步毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]志步玩偶/L",
+      "source": "cn",
       "ids": [
         "10967"
       ]
     },
     "[リミテッドスタイル vol.2] 志歩のぬいぐるみ/M": {
-      "text": "[限定款式 vol.2] 志步毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]志步玩偶/M",
+      "source": "cn",
       "ids": [
         "10966"
       ]
     },
     "[リミテッドスタイル vol.2] 志歩のぬいぐるみ/S": {
-      "text": "[限定款式 vol.2] 志步毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]志步玩偶/S",
+      "source": "cn",
       "ids": [
         "10965"
       ]
@@ -22575,22 +22575,22 @@
       ]
     },
     "[リミテッドスタイル vol.2] 杏のぬいぐるみ/L": {
-      "text": "[限定款式 vol.2] 杏毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]杏的玩偶/L",
+      "source": "cn",
       "ids": [
         "10919"
       ]
     },
     "[リミテッドスタイル vol.2] 杏のぬいぐるみ/M": {
-      "text": "[限定风格 vol.2] 杏毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]杏的玩偶/M",
+      "source": "cn",
       "ids": [
         "10918"
       ]
     },
     "[リミテッドスタイル vol.2] 杏のぬいぐるみ/S": {
-      "text": "[限定风格 vol.2] 杏毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]杏的玩偶/S",
+      "source": "cn",
       "ids": [
         "10917"
       ]
@@ -22659,22 +22659,22 @@
       ]
     },
     "[リミテッドスタイル vol.2] 遥のぬいぐるみ/L": {
-      "text": "[限定风格 vol.2] 遥毛绒玩偶/L",
-      "source": "human",
+      "text": "[限定风格 vol.2]遥的玩偶/L",
+      "source": "cn",
       "ids": [
         "10916"
       ]
     },
     "[リミテッドスタイル vol.2] 遥のぬいぐるみ/M": {
-      "text": "[限定风格 vol.2] 遥毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]遥的玩偶/M",
+      "source": "cn",
       "ids": [
         "10915"
       ]
     },
     "[リミテッドスタイル vol.2] 遥のぬいぐるみ/S": {
-      "text": "[限定风格 vol.2] 遥毛绒玩偶/S",
-      "source": "human",
+      "text": "[限定风格 vol.2]遥的玩偶/S",
+      "source": "cn",
       "ids": [
         "10914"
       ]
@@ -22722,15 +22722,15 @@
       ]
     },
     "[リミテッドスタイル vol.2]まふゆのぬいぐるみ/M": {
-      "text": "[限定款式 vol.2] 真冬毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]真冬的玩偶/M",
+      "source": "cn",
       "ids": [
         "10924"
       ]
     },
     "[リミテッドスタイル vol.2]奏のぬいぐるみ/M": {
-      "text": "[限定款式 vol.2] 宵崎奏毛绒玩偶/M",
-      "source": "human",
+      "text": "[限定风格 vol.2]奏玩偶/M",
+      "source": "cn",
       "ids": [
         "10978"
       ]
@@ -27685,8 +27685,8 @@
       ]
     },
     "バースデーガーランド（穂波）": {
-      "text": "生日拉旗（穗波）",
-      "source": "human",
+      "text": "生日装饰拉花（穗波）",
+      "source": "cn",
       "ids": [
         "10950"
       ]
@@ -27805,7 +27805,7 @@
     },
     "バースデーケーキ（穂波）": {
       "text": "生日蛋糕（穗波）",
-      "source": "human",
+      "source": "cn",
       "ids": [
         "10947"
       ]
@@ -27924,7 +27924,7 @@
     },
     "バースデーチェア（穂波）": {
       "text": "生日椅子（穗波）",
-      "source": "human",
+      "source": "cn",
       "ids": [
         "10951"
       ]
@@ -28043,7 +28043,7 @@
     },
     "バースデーバルーン（穂波）": {
       "text": "生日气球（穗波）",
-      "source": "human",
+      "source": "cn",
       "ids": [
         "10948"
       ]
@@ -28162,7 +28162,7 @@
     },
     "バースデーブーケ（穂波）": {
       "text": "生日花束（穗波）",
-      "source": "human",
+      "source": "cn",
       "ids": [
         "10949"
       ]
@@ -30864,8 +30864,8 @@
       ]
     },
     "望月穂波BD '25": {
-      "text": "望月穗波BD '25",
-      "source": "human",
+      "text": "望月穗波 生日'26",
+      "source": "cn",
       "ids": [
         "10952"
       ]

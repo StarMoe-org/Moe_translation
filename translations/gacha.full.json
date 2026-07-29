@@ -1079,42 +1079,42 @@
       ]
     },
     "[2周年記念][25時、ナイトコードで。]プレミアムプレゼントガチャ": {
-      "text": "[2週年]25点，Nightcord见。高級禮物招募",
+      "text": "[Sunshine!!][25点，Nightcord见。]高级礼物招募",
       "source": "cn",
       "ids": [
         "245"
       ]
     },
     "[2周年記念][Leo/need]プレミアムプレゼントガチャ": {
-      "text": "[2週年]Leo/need 高級禮物招募",
+      "text": "[Sunshine!!][Leo/need]高级礼物招募",
       "source": "cn",
       "ids": [
         "241"
       ]
     },
     "[2周年記念][MORE MORE JUMP！]プレミアムプレゼントガチャ": {
-      "text": "[2週年]MORE MORE JUMP！高級禮物招募",
+      "text": "[Sunshine!!][MORE MORE JUMP！]高级礼物招募",
       "source": "cn",
       "ids": [
         "242"
       ]
     },
     "[2周年記念][Vivid BAD SQUAD]プレミアムプレゼントガチャ": {
-      "text": "[2週年]Vivid BAD SQUAD 高級禮物招募",
+      "text": "[Sunshine!!][Vivid BAD SQUAD]高级礼物招募",
       "source": "cn",
       "ids": [
         "243"
       ]
     },
     "[2周年記念][バーチャル・シンガー]プレミアムプレゼントガチャ": {
-      "text": "[2週年]虛擬歌手 高級禮物招募",
+      "text": "[Sunshine!!][虚拟歌手]高级礼物招募",
       "source": "cn",
       "ids": [
         "240"
       ]
     },
     "[2周年記念][ワンダーランズ×ショウタイム]プレミアムプレゼントガチャ": {
-      "text": "[2週年]Wonderlands×Showtime高級禮物招募",
+      "text": "[Sunshine!!][Wonderlands×Showtime]高级礼物招募",
       "source": "cn",
       "ids": [
         "244"
@@ -1604,8 +1604,8 @@
       ]
     },
     "[MORE MORE JUMP！]ワールドリンクイベントサポートガチャ": {
-      "text": "[MORE MORE JUMP！] World Link 活动支援招募",
-      "source": "human",
+      "text": "[MORE MORE JUMP！]连接世界活动支援招募",
+      "source": "cn",
       "ids": [
         "779"
       ]
@@ -1697,42 +1697,42 @@
     },
     "[フィナーレチャプター]Another sparkle Starsガチャ": {
       "text": "[终章]Another sparkle Stars招募",
-      "source": "human",
+      "source": "cn",
       "ids": [
         "814"
       ]
     },
     "[フィナーレチャプター]Dream a Wonder Dreamガチャ": {
-      "text": "[终章] Dream a Wonder Dream 招募",
-      "source": "human",
+      "text": "[终章]Dream a Wonder Dream招募",
+      "source": "cn",
       "ids": [
         "812"
       ]
     },
     "[フィナーレチャプター]Empty Teatimeガチャ": {
       "text": "[终章]Empty Teatime招募",
-      "source": "human",
+      "source": "cn",
       "ids": [
         "815"
       ]
     },
     "[フィナーレチャプター]Glance at Same Worldガチャ": {
-      "text": "[终章] Glance at Same World 招募",
-      "source": "human",
+      "text": "[终章]Glance at Same World招募",
+      "source": "cn",
       "ids": [
         "811"
       ]
     },
     "[フィナーレチャプター]Night's Treasureガチャ": {
-      "text": "[终章] Night's Treasure 招募",
-      "source": "human",
+      "text": "[终章]Night's Treasure招募",
+      "source": "cn",
       "ids": [
         "813"
       ]
     },
     "[フィナーレチャプター]Velvet Afternoonガチャ": {
       "text": "[终章]Velvet Afternoon招募",
-      "source": "human",
+      "source": "cn",
       "ids": [
         "816"
       ]
@@ -1822,7 +1822,7 @@
       ]
     },
     "[初音ミク]HAPPY ANNIVERSARY2025ガチャ": {
-      "text": "[初音未来]HAPPY ANNIVERSARY2026招募",
+      "text": "[初音未来]HAPPY ANNIVERSARY 2026招募",
       "source": "cn",
       "ids": [
         "795"
@@ -2308,7 +2308,7 @@
       ]
     },
     "[復刻][初音ミク]HAPPY ANNIVERSARY2023ガチャ": {
-      "text": "[回响][初音未来]HAPPY ANNIVERSARY Stamp招募",
+      "text": "[复刻][初音未来]HAPPY ANNIVERSARY Stamp招募",
       "source": "cn",
       "ids": [
         "566",
@@ -2316,14 +2316,14 @@
       ]
     },
     "[復刻][初音ミク]HAPPY ANNIVERSARY2024ガチャ": {
-      "text": "[回响][初音未来]HAPPY ANNIVERSARY2025招募",
+      "text": "[复刻][初音未来]HAPPY ANNIVERSARY 2025招募",
       "source": "cn",
       "ids": [
         "796"
       ]
     },
     "[復刻][初音ミク]HAPPY ANNIVERSARYガチャ": {
-      "text": "[回响][初音未来]HAPPY ANNIVERSARY招募",
+      "text": "[复刻][初音未来]HAPPY ANNIVERSARY Flower招募",
       "source": "cn",
       "ids": [
         "367",
@@ -2500,7 +2500,7 @@
       ]
     },
     "[復刻][星乃一歌]HAPPY BIRTHDAY2023ガチャ": {
-      "text": "[回响][星乃一歌]HAPPY BIRTHDAY Stamp招募",
+      "text": "[复刻][星乃一歌]HAPPY BIRTHDAY Stamp招募",
       "source": "cn",
       "ids": [
         "554",
@@ -2508,14 +2508,14 @@
       ]
     },
     "[復刻][星乃一歌]HAPPY BIRTHDAY2024ガチャ": {
-      "text": "[回响][星乃一歌]HAPPY BIRTHDAY 2025招募",
+      "text": "[复刻][星乃一歌]HAPPY BIRTHDAY 2025招募",
       "source": "cn",
       "ids": [
         "784"
       ]
     },
     "[復刻][星乃一歌]HAPPY BIRTHDAYガチャ": {
-      "text": "[回响][星乃一歌]HAPPY BIRTHDAY招募",
+      "text": "[复刻][星乃一歌]HAPPY BIRTHDAY Flower招募",
       "source": "cn",
       "ids": [
         "360",
@@ -2524,7 +2524,7 @@
       ]
     },
     "[復刻][暁山瑞希]HAPPY BIRTHDAY2023ガチャ": {
-      "text": "[回响][晓山瑞希]HAPPY BIRTHDAY Stamp招募",
+      "text": "[复刻][晓山瑞希]HAPPY BIRTHDAY Stamp招募",
       "source": "cn",
       "ids": [
         "561",
@@ -2532,14 +2532,14 @@
       ]
     },
     "[復刻][暁山瑞希]HAPPY BIRTHDAY2024ガチャ": {
-      "text": "[回响][晓山瑞希]HAPPY BIRTHDAY 2025招募",
+      "text": "[复刻][晓山瑞希]HAPPY BIRTHDAY 2025招募",
       "source": "cn",
       "ids": [
         "791"
       ]
     },
     "[復刻][暁山瑞希]HAPPY BIRTHDAYガチャ": {
-      "text": "[回响][晓山瑞希]HAPPY BIRTHDAY招募",
+      "text": "[复刻][晓山瑞希]HAPPY BIRTHDAY Flower招募",
       "source": "cn",
       "ids": [
         "365",
@@ -2932,7 +2932,7 @@
       ]
     },
     "[復刻]みんなでEnjoy Summer！ガチャ": {
-      "text": "[回响]大家一起Enjoy Summer！招募",
+      "text": "[复刻]大家一起Enjoy Summer！招募",
       "source": "cn",
       "ids": [
         "229",
@@ -3121,7 +3121,7 @@
       ]
     },
     "[復刻]重なる想いWords Snowガチャ": {
-      "text": "[回响]重合的心愿Words Snow招募",
+      "text": "[复刻]重合的心愿Words Snow招募",
       "source": "cn",
       "ids": [
         "271",
@@ -3376,8 +3376,8 @@
       ]
     },
     "[東方Projectコラボ記念] コラボ限定★4メンバー確定 幻想郷コレクションガチャ": {
-      "text": "[东方Project联动纪念] 联动限定必出★4成员 幻想乡收藏招募",
-      "source": "human",
+      "text": "[东方Project联动纪念]联动限定★4成员必出 幻想乡收藏招募",
+      "source": "cn",
       "ids": [
         "732"
       ]
@@ -4101,8 +4101,8 @@
       ]
     },
     "みんなたまとも!どり～むガチャ": {
-      "text": "大家都是塔麻可吉的朋友！Dream 招募",
-      "source": "human",
+      "text": "大家都是拓麻歌子之友！梦～幻招募",
+      "source": "cn",
       "ids": [
         "810"
       ]
