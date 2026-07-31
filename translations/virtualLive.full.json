@@ -385,6 +385,13 @@
         "186"
       ]
     },
+    "Echo of a Prayer アフターライブ": {
+      "text": "祈祷的回响 后日谈·演唱会",
+      "source": "human",
+      "ids": [
+        "479"
+      ]
+    },
     "Find A Way Out アフターライブ": {
       "text": "Find A Way Out 后日谈·演唱会",
       "source": "cn",
@@ -859,6 +866,13 @@
       "source": "cn",
       "ids": [
         "392"
+      ]
+    },
+    "HAPPY BIRTHDAYライブ 一歌 2026": {
+      "text": "HAPPY BIRTHDAY演唱会 一歌 2026",
+      "source": "human",
+      "ids": [
+        "480"
       ]
     },
     "HAPPY BIRTHDAYライブ 冬弥 2021": {

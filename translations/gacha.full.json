@@ -644,6 +644,13 @@
         "778"
       ]
     },
+    "Tucked in a boxガチャ": {
+      "text": "纳于盒中招募",
+      "source": "human",
+      "ids": [
+        "981"
+      ]
+    },
     "Unknown toneガチャ": {
       "text": "Unknown tone招募",
       "source": "cn",
@@ -1738,8 +1745,8 @@
       ]
     },
     "[フィナーレチャプター]ワールドリンクイベントサポートガチャ": {
-      "text": "[终章]世界连接活动支援招募",
-      "source": "human",
+      "text": "[终章]连接世界活动支援招募",
+      "source": "cn",
       "ids": [
         "817"
       ]
@@ -3249,11 +3256,25 @@
         "783"
       ]
     },
+    "[星乃一歌]HAPPY BIRTHDAY2026ガチャ": {
+      "text": "[星乃一歌]HAPPY BIRTHDAY 2026招募",
+      "source": "human",
+      "ids": [
+        "984"
+      ]
+    },
     "[星乃一歌]HAPPY BIRTHDAYガチャ": {
       "text": "[星乃一歌]HAPPY BIRTHDAY招募",
       "source": "cn",
       "ids": [
         "227"
+      ]
+    },
+    "[星乃一歌]HAPPY BIRTHDAYメモリーズガチャ": {
+      "text": "[星乃一歌]HAPPY BIRTHDAY 纪念招募",
+      "source": "human",
+      "ids": [
+        "985"
       ]
     },
     "[暁山瑞希]HAPPY BIRTHDAY2023ガチャ": {
@@ -3961,43 +3982,43 @@
       ]
     },
     "【5周年前夜祭】[25時、ナイトコードで。]スペシャルプライズガチャ": {
-      "text": "【5周年庆前夜祭】[25点，Nightcord见。]特别奖品招募",
-      "source": "human",
+      "text": "【1.5周年前夜庆典】[25点，Nightcord见。]Special Prize招募",
+      "source": "cn",
       "ids": [
         "823"
       ]
     },
     "【5周年前夜祭】[Leo/need]スペシャルプライズガチャ": {
-      "text": "【5周年庆前夜祭】[Leo/need]特别奖品招募",
-      "source": "human",
+      "text": "[1.5周年前夜庆典][Leo/need]Special Prize招募",
+      "source": "cn",
       "ids": [
         "819"
       ]
     },
     "【5周年前夜祭】[MORE MORE JUMP！]スペシャルプライズガチャ": {
-      "text": "【5周年庆前夜祭】[MORE MORE JUMP！]特别奖品招募",
-      "source": "human",
+      "text": "[1.5周年前夜庆典][MORE MORE JUMP！]Special Prize招募",
+      "source": "cn",
       "ids": [
         "820"
       ]
     },
     "【5周年前夜祭】[Vivid BAD SQUAD]スペシャルプライズガチャ": {
-      "text": "【5周年庆前夜祭】[Vivid BAD SQUAD]特别奖品招募",
-      "source": "human",
+      "text": "[1.5周年前夜庆典][Vivid BAD SQUAD]Special Prize招募",
+      "source": "cn",
       "ids": [
         "821"
       ]
     },
     "【5周年前夜祭】[バーチャル・シンガー]スペシャルプライズガチャ": {
-      "text": "【5周年庆前夜祭】[虚拟歌手]特别奖品招募",
-      "source": "human",
+      "text": "【1.5周年前夜庆典】[虚拟歌手]Special Prize招募",
+      "source": "cn",
       "ids": [
         "818"
       ]
     },
     "【5周年前夜祭】[ワンダーランズ×ショウタイム]スペシャルプライズガチャ": {
-      "text": "【5周年庆前夜祭】[Wonderlands×Showtime]特别奖品招募",
-      "source": "human",
+      "text": "[1.5周年前夜庆典][Wonderlands×Showtime]Special Prize招募",
+      "source": "cn",
       "ids": [
         "822"
       ]
@@ -4228,7 +4249,8 @@
         "929",
         "942",
         "957",
-        "968"
+        "968",
+        "982"
       ]
     },
     "カラフルフェスティバルガチャ": {
@@ -4524,6 +4546,13 @@
       "source": "human",
       "ids": [
         "979"
+      ]
+    },
+    "ワールドコスチュームガチャ vol.6": {
+      "text": "世界服装招募 vol.6",
+      "source": "human",
+      "ids": [
+        "983"
       ]
     },
     "ワールドリンクイベント Part1 サポートガチャ": {
