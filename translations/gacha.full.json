@@ -1380,78 +1380,78 @@
       ]
     },
     "[5周年記念]1/3セレクトリストガチャ LIMITED EDITION": {
-      "text": "[5周年纪念]1/3自选名单招募 期间限定卡版",
-      "source": "human",
+      "text": "[1.5周年纪念]1/3自选清单招募 LIMITED EDITION",
+      "source": "cn",
       "ids": [
         "832"
       ]
     },
     "[5周年記念][25時、ナイトコードで。]プレミアムプレゼントガチャ": {
-      "text": "[5周年纪念][25点，Nightcord见。]高级礼物招募",
-      "source": "human",
+      "text": "[1.5周年纪念][25点，Nightcord见。]高级礼物招募",
+      "source": "cn",
       "ids": [
         "831"
       ]
     },
     "[5周年記念][Leo/need]プレミアムプレゼントガチャ": {
-      "text": "[5周年纪念][Leo/need]高级礼物招募",
-      "source": "human",
+      "text": "[1.5周年纪念][Leo/need]高级礼物招募",
+      "source": "cn",
       "ids": [
         "827"
       ]
     },
     "[5周年記念][MORE MORE JUMP！]プレミアムプレゼントガチャ": {
-      "text": "[5周年纪念][MORE MORE JUMP！]高级礼物招募",
-      "source": "human",
+      "text": "[1.5周年纪念][MORE MORE JUMP！]高级礼物招募",
+      "source": "cn",
       "ids": [
         "828"
       ]
     },
     "[5周年記念][Vivid BAD SQUAD]プレミアムプレゼントガチャ": {
-      "text": "[5周年纪念][Vivid BAD SQUAD]高级礼物招募",
-      "source": "human",
+      "text": "[1.5周年纪念][Vivid BAD SQUAD]高级礼物招募",
+      "source": "cn",
       "ids": [
         "829"
       ]
     },
     "[5周年記念][バーチャル・シンガー]プレミアムプレゼントガチャ": {
-      "text": "[5周年纪念][虚拟歌手]高级礼物招募",
-      "source": "human",
+      "text": "[1.5周年纪念][虚拟歌手]高级礼物招募",
+      "source": "cn",
       "ids": [
         "826"
       ]
     },
     "[5周年記念][ワンダーランズ×ショウタイム]プレミアムプレゼントガチャ": {
-      "text": "[5周年纪念][Wonderlands×Showtime]高级礼物招募",
-      "source": "human",
+      "text": "[1.5周年纪念][Wonderlands×Showtime]高级礼物招募",
+      "source": "cn",
       "ids": [
         "830"
       ]
     },
     "[5周年記念]ブルームフェスティバルガチャ ゴールドフィーバー": {
-      "text": "[5周年纪念] 绚烂庆典招募「BFES 金色狂潮」",
-      "source": "human",
+      "text": "[1.5周年纪念]绚烂节日招募 金色热潮",
+      "source": "cn",
       "ids": [
         "840"
       ]
     },
     "[5周年記念]ブルームフェスティバルガチャ ドリームピック": {
-      "text": "[5周年纪念] 绚烂庆典招募「BFES DreamPick」",
-      "source": "human",
+      "text": "[1.5周年纪念]绚烂节日招募 梦幻Pick",
+      "source": "cn",
       "ids": [
         "825"
       ]
     },
     "[5周年記念]メモリアルセレクトガチャ": {
-      "text": "[5周年纪念] 纪念自选招募",
-      "source": "human",
+      "text": "[1.5周年纪念]纪念自选招募",
+      "source": "cn",
       "ids": [
         "833"
       ]
     },
     "[5周年記念]無料ガチャ": {
-      "text": "[5周年纪念] 免费招募",
-      "source": "human",
+      "text": "[1.5周年纪念]免费招募",
+      "source": "cn",
       "ids": [
         "834"
       ]
@@ -3551,8 +3551,8 @@
       ]
     },
     "[桐谷遥]HAPPY BIRTHDAY2025ガチャ": {
-      "text": "[桐谷遥] HAPPY BIRTHDAY 2025 招募",
-      "source": "human",
+      "text": "[桐谷遥]HAPPY BIRTHDAY 2026招募",
+      "source": "cn",
       "ids": [
         "836"
       ]
@@ -3565,8 +3565,8 @@
       ]
     },
     "[桐谷遥]HAPPY BIRTHDAYメモリーズガチャ": {
-      "text": "[桐谷遥] HAPPY BIRTHDAY 回忆招募",
-      "source": "human",
+      "text": "[桐谷遥]HAPPY BIRTHDAY Memories 招募",
+      "source": "cn",
       "ids": [
         "837"
       ]
