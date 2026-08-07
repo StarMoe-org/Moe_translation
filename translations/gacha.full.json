@@ -476,6 +476,13 @@
         "374"
       ]
     },
+    "Piercing Lightガチャ": {
+      "text": "",
+      "source": "unknown",
+      "ids": [
+        "986"
+      ]
+    },
     "Play the shadowガチャ": {
       "text": "Play the shadow招募",
       "source": "human",
@@ -2240,7 +2247,8 @@
       "text": "[复刻]That flower, once more招募",
       "source": "human",
       "ids": [
-        "869"
+        "869",
+        "989"
       ]
     },
     "[復刻]The Party Of Blast!!ガチャ": {
@@ -2249,6 +2257,13 @@
       "ids": [
         "764",
         "908"
+      ]
+    },
+    "[復刻]Those who dareガチャ": {
+      "text": "",
+      "source": "unknown",
+      "ids": [
+        "988"
       ]
     },
     "[復刻]Welcome to diner!!ガチャ": {
@@ -4581,6 +4596,13 @@
       "source": "human",
       "ids": [
         "971"
+      ]
+    },
+    "ワールドリンクイベント Part5 サポートガチャ": {
+      "text": "",
+      "source": "unknown",
+      "ids": [
+        "987"
       ]
     },
     "ヴェールの向こうのあなたへガチャ": {
